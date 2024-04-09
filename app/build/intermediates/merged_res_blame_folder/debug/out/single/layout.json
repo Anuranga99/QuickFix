@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\activity_all_category.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_all_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\activity_product_details.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\discounted_row_items.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\discounted_row_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\recently_viewed_items.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\recently_viewed_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "com.example.quickfix.app-mergeDebugResources-44:/layout/activity_product_details.xml",
+        "source": "com.example.quickfix.app-main-47:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\category_row_items.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\category_row_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-mergeDebugResources-44:\\layout\\all_category_row_items.xml",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\all_category_row_items.xml"
+    }
+]

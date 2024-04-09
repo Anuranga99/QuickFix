@@ -1,0 +1,3 @@
+com.example.quickfix.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

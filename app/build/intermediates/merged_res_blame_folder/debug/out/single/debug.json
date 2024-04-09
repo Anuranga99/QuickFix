@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_discountelectric.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\discountelectric.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a14.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_visibility_off_black_24dp.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_visibility_off_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_card3.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\card3.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_plumber.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\plumber.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_electrician.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\electrician.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\font_work_sans_bold.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\font\\work_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a10.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_back.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a4.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a3.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_category_row_items.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\category_row_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a17.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_cartbutton.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\cartbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_baseline_chat_24.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\baseline_chat_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_visibility_black_24dp.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_visibility_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_show_password_selector.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\show_password_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_carpenter.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\carpenter.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_activity_all_category.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_all_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_activity_product_details.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a8.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a15.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_fb.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a11.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_pro.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\pro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\font_open_sans_bold.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\font\\open_sans_bold.xml"
+    },
+    {
+        "merged": "com.example.quickfix.app-merged_res-45:/layout_activity_product_details.xml.flat",
+        "source": "com.example.quickfix.app-main-47:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a5.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_cctv.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\cctv.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a2.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_card2.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\card2.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\font_open_sans_semibold.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\font\\open_sans_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a18.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_discountmecha.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\discountmecha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a12.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_google.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_all_category_row_items.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\all_category_row_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a9.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a16.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_house.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\house.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_message.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_buy_now_bg.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\buy_now_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a6.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_card1.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\card1.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a1.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a13.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_card4.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\card4.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_recently_viewed_items.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\recently_viewed_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_discountcarpente.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\discountcarpente.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_profile_picture.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\profile_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_background.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_mechanic.png.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\mechanic.png"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_account_settings.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_account_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_edit_profile.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\font_open_sans.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\font\\open_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\font_open_sans_light.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\font\\open_sans_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_cart_black.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_cart_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\layout_discounted_row_items.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\layout\\discounted_row_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_a7.jpg.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\a7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-merged_res-45:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\SD\\.gradle\\daemon\\8.2\\com.example.quickfix.app-main-47:\\drawable\\ic_baseline_info_24.xml"
+    }
+]
